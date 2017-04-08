@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">C++ Tuts</string>
+
+    <string-array name="tuts">
+        <item>Introduction</item>
+        <item>Hello World</item>
+        <item>Getting the tools</item>
+        <item>Printing a text</item>
+        <item>Comments</item>
+        <item>Variables</item>
+        <item>Working with variables</item>
+        <item>Basic Arithmetic</item>
+        <item>Assignment and increment operators</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+
+    </string-array>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="about_statement">This app aims to provide a clear introduction to unit testing
+    using <b><i>Junit</i></b>. through short descriptions and code snippets. at the end of
+    every tutorial you will find a link to a video discussion <b><i>(in arabic)</i></b>.
+    feel free to leave any feedback and happy coding.</string>
+    <string name="contact_us">Contact us</string>
+    <string name="watch_arabic_video_tutorial">Watch Arabic video tutorial</string>
+    <string name="intro_1">First of all let\'s count some benefits of using C++.\n
+    1)A general purpose programming language with support for object-oriented programming.\n
+    2)Targets personal computers(Windows, Linux, Unix amd Mac OS X).\n
+    3)Small form factors hardware(Raspberry PI and Aluino boards).
+    4)The main language in Unreal Engine(Game engine)</string>
+    <string name="intro_2">Famous software written in c++:\nAdobe Systems(Photocopy,
+        ImageReady, Illustrator, Acrobat and InDesign).\nMaya.\nAmazon.com(e-commerce).\n
+    AT&amp;T(US telecommunication provider).\n
+    Symbian(OS).\nKDE(Desktop environment for linux).</string>
+    <string name="intro_3">Installing gnu compiler:\n For windows users just search for
+    cygwin GNU compilers(gcc for C, g++ for C++).download and install it.\n
+    for linux users run the following commands in a terminal.</string>
+    <string name="intro_4"><b><i>IDEs:</i></b>\n1)Clion (JetBrains production)\n
+    Visual studio\nEclipse\nNetBeans\nCode::Blocks\nThey are all the same, if you write
+    in many languages then go for eclipse or nathans, if you are a windows user sure
+    you can enjoy visual studio, finally if you are searching for a lightweight ide go for
+    Cde::Blocks.</string>
+
+</resources>
